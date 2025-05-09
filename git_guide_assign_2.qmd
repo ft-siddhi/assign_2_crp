@@ -1,0 +1,9 @@
+---
+title: "ETC5513: Collaborative and Reproducible Practices: Guide"
+author: Siddhi Jadhav
+date: today
+output: 
+  html_document:
+    theme: journal
+editor: visual
+---
